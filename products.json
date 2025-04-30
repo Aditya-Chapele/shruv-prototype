@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Ring",
+    "description": "A beautiful ring perfect for gifting.",
+    "price": 200,
+    "image": "images/p1.png"
+  },
+  {
+    "name": "Watch",
+    "description": "Elegant watch with a leather strap.",
+    "price": 300,
+    "image": "images/p2.png"
+  },
+  {
+    "name": "Teddy Bear",
+    "description": "Cute and cuddly teddy bear perfect for gifting!",
+    "price": 110,
+    "image": "images/p3.png"
+  },
+  {
+    "name": "Flower Bouquet",
+    "description": "A beautiful bouquet of fresh flowers.",
+    "price": 45,
+    "image": "images/p4.png"
+  },
+  {
+    "name": "Teddy Bear",
+    "description": "A soft and adorable teddy bear to bring smiles.",
+    "price": 95,
+    "image": "images/p5.png"
+  },
+  {
+    "name": "Flower Bouquet",
+    "description": "Charming bouquet for special occasions.",
+    "price": 70,
+    "image": "images/p6.png"
+  },
+  {
+    "name": "Watch",
+    "description": "Stylish watch for casual wear.",
+    "price": 400,
+    "image": "images/p7.png"
+  },
+  {
+    "name": "Ring",
+    "description": "A luxurious ring for special occasions.",
+    "price": 450,
+    "image": "images/p8.png"
+  }
+]
